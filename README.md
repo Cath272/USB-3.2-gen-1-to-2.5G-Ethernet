@@ -1,5 +1,5 @@
 # USB 3.2 gen 1 to 2.5Gb Ethernet
- Gigabit Ethenet to USB C using VL162 and RTL8153
+ 2.5GbE to USB C using VL162 and RTL8156
 
 
  ## VL162
@@ -8,7 +8,6 @@
 
   - Low power consumption with 6mW active at device mode
 
-  - USB Billboard Device
 
  ## RTL8156BG 
 
